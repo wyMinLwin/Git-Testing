@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: 500;
+    color: rgb(238, 36, 103);
+}
